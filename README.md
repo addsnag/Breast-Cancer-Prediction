@@ -89,7 +89,7 @@ This makes Logistic Regression an effective baseline model for breast cancer det
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Breast-Cancer-Prediction.git
+git clone https://github.com/addsnag/Breast-Cancer-Prediction.git
 cd Breast-Cancer-Prediction
 ```
 
